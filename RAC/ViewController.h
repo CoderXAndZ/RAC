@@ -2,8 +2,8 @@
 //  ViewController.h
 //  RAC
 //
-//  Created by admin on 2017/7/31.
-//  Copyright © 2017年 XZ. All rights reserved.
+//  Created by admin on 2016/7/31.
+//  Copyright © 2016年 XZ. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
